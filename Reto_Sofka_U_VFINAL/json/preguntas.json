@@ -1,0 +1,303 @@
+[
+    {
+        "respuesta": 2,
+        "tituloPregunta": "¿Cual es el limite de x2-9x-3 cuando la x tiende a 3?",
+        "opciones": [
+            {
+                "alternativa1": "9",
+                "alternativa2": "3",
+                "alternativa3": "infinito",
+                "alternativa4": "30"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿En que año cayo la URSS?",
+        "opciones": [
+            {
+                "alternativa1": "1991",
+                "alternativa2": "2000",
+                "alternativa3": "300 a.c",
+                "alternativa4": "ayer"
+            }
+        ]
+    },
+    {
+        "respuesta": 4,
+        "tituloPregunta": "¿Que nombre tenia la banda de Dave Mustaine antes de llamarse Megadeth?",
+        "opciones": [
+            {
+                "alternativa1": "Ninguna",
+                "alternativa2": "Los angeles",
+                "alternativa3": "Los iluminatis",
+                "alternativa4": "Fallen Angel"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿En que año se realizo la primera entrega de los premios Oscar?",
+        "opciones": [
+            {
+                "alternativa1": "2001",
+                "alternativa2": "2000",
+                "alternativa3": "1929",
+                "alternativa4": "1928"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Como se llama el creador de la saga de videojuegos Metal Gear?",
+        "opciones": [
+            {
+                "alternativa1": "Hideo Kojima",
+                "alternativa2": "Goku",
+                "alternativa3": "Fredd",
+                "alternativa4": "Cristiano Ronaldo"
+            }
+        ]
+    },
+    {
+        "respuesta": 2,
+        "tituloPregunta": "¿Cual fue cosiderado el primer First person Shooter de la historia?",
+        "opciones": [
+            {
+                "alternativa1": "Alvaro Uribe",
+                "alternativa2": "Maze War",
+                "alternativa3": "Vin Diesel",
+                "alternativa4": "Will Smith"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Como se llama la pelicula donde los protagonistas tienen que deshacerse de un anillo?",
+        "opciones": [
+            {
+                "alternativa1": "El señor de los anillos",
+                "alternativa2": "Terminator",
+                "alternativa3": "Van Helsing",
+                "alternativa4": "Transformers"
+            }
+        ]
+    },
+    {
+        "respuesta": 4,
+        "tituloPregunta": "¿Qué necesitan las células para dividirse?",
+        "opciones": [
+            {
+                "alternativa1": "Comida",
+                "alternativa2": "Ganas",
+                "alternativa3": "La ayuda de Dios",
+                "alternativa4": "Energía"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Qué músculo impulsa la sangre por todo nuestro cuerpo?",
+        "opciones": [
+            {
+                "alternativa1": "Las piernas",
+                "alternativa2": "Los dedos",
+                "alternativa3": "El corazón",
+                "alternativa4": "Los pulmones"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Dónde realizan las plantas la fotosíntesis?",
+        "opciones": [
+            {
+                "alternativa1": "En las hojas",
+                "alternativa2": "En la raiz",
+                "alternativa3": "En el tallo",
+                "alternativa4": "Al lado"
+            }
+        ]
+    },
+    {
+        "respuesta": 2,
+        "tituloPregunta": "¿Cuántas veces Arnold Schwarzenegger ha interpretado al Terminator T800?",
+        "opciones": [
+            {
+                "alternativa1": "10",
+                "alternativa2": "6",
+                "alternativa3": "2",
+                "alternativa4": "4"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Qué es una incógnita?",
+        "opciones": [
+            {
+                "alternativa1": "Un número del que desconocemos su valor",
+                "alternativa2": "Un conjunto de número que son divisibles entre 2",
+                "alternativa3": "Un número del que desconocemos su valor",
+                "alternativa4": "Un conjunto de números con relación mediante una ecuación"
+            }
+        ]
+    },
+    {
+        "respuesta": 4,
+        "tituloPregunta": "¿¿en qué año se estrenó el primer iPhone??",
+        "opciones": [
+            {
+                "alternativa1": "2020",
+                "alternativa2": "2000",
+                "alternativa3": "2007",
+                "alternativa4": "2005"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Una masa de kilogramo, ¿a qué peso equivale en newton?",
+        "opciones": [
+            {
+                "alternativa1": "5.8N",
+                "alternativa2": "7.2N",
+                "alternativa3": "9.8N",
+                "alternativa4": "6.3N"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Cuales son conceptos básicos de OOPS?",
+        "opciones": [
+            {
+                "alternativa1": "Encapsulación, Herencia, Polimorfismo, Abstracción.",
+                "alternativa2": "Ninguna de las anteriores",
+                "alternativa3": "polimorfismo y pluralismo",
+                "alternativa4": "Todas las anteriores"
+            }
+        ]
+    },
+    {
+        "respuesta": 2,
+        "tituloPregunta": "¿Que es una subclase?",
+        "opciones": [
+            {
+                "alternativa1": "Clase heredada varias veces",
+                "alternativa2": "Es la que hereda de una o más clases base",
+                "alternativa3": "Ninguna de las anteriores",
+                "alternativa4": "Ninguna de las anteriores"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Cuál es el especificador de acceso predeterminado en una definición de clase?",
+        "opciones": [
+            {
+                "alternativa1": "El especificador de acceso privado (private access)",
+                "alternativa2": "El especificador de acceso multiple (multiple access)",
+                "alternativa3": "El especificador de acceso vacio (void access)",
+                "alternativa4": "El especificador de acceso publico (public access)"
+            }
+        ]
+    },
+    {
+        "respuesta": 4,
+        "tituloPregunta": "¿Cual de los siguientes es un instrumento de cuerdas?",
+        "opciones": [
+            {
+                "alternativa1": "Pandereta",
+                "alternativa2": "Tambor",
+                "alternativa3": "Triangulo",
+                "alternativa4": "Guitarra"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿¿Cuantos departamentos tiene Uruguay?",
+        "opciones": [
+            {
+                "alternativa1": "40",
+                "alternativa2": "15",
+                "alternativa3": "19",
+                "alternativa4": "8"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿Cuanto es 2 x 2?",
+        "opciones": [
+            {
+                "alternativa1": "4",
+                "alternativa2": "8",
+                "alternativa3": "2",
+                "alternativa4": "10"
+            }
+        ]
+    },
+    {
+        "respuesta": 2,
+        "tituloPregunta": "¿Cual es la capital de Alemania?",
+        "opciones": [
+            {
+                "alternativa1": "Londres",
+                "alternativa2": "Berlin",
+                "alternativa3": "Medellín",
+                "alternativa4": "Bógota"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿En que año fue lanzado la primera entrega de Doom?",
+        "opciones": [
+            {
+                "alternativa1": "1993",
+                "alternativa2": "2000",
+                "alternativa3": "2020",
+                "alternativa4": "2005"
+            }
+        ]
+    },
+    {
+        "respuesta": 4,
+        "tituloPregunta": "¿Cuantas cuerdas tiene un bajo?",
+        "opciones": [
+            {
+                "alternativa1": "7",
+                "alternativa2": "3",
+                "alternativa3": "6",
+                "alternativa4": "4"
+            }
+        ]
+    },
+    {
+        "respuesta": 3,
+        "tituloPregunta": "¿Como se llama el protagonista de la saga de juegos Half life?",
+        "opciones": [
+            {
+                "alternativa1": "Zelda",
+                "alternativa2": "G-man",
+                "alternativa3": "Gordon Freeman",
+                "alternativa4": "Eli Vance"
+            }
+        ]
+    },
+    {
+        "respuesta": 1,
+        "tituloPregunta": "¿En que año fue descubierto America?",
+        "opciones": [
+            {
+                "alternativa1": "1492",
+                "alternativa2": "1500",
+                "alternativa3": "1449",
+                "alternativa4": "1290"
+            }
+        ]
+    }
+]
+
